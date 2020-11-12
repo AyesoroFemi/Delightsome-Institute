@@ -1,0 +1,62 @@
+
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+.brand-logo span {
+    font-size: 16px;
+
+}
+.header{
+    font-weight: 700;
+}
+
+.hero{
+    margin-top: -37px;
+    min-height: 400px;
+    background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.9)), url("../img/ivan-aleksic-PDRFeeDniCk-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+}
+
+.about-us{
+    padding-top: 140px;
+}
+
+.welcome{
+    margin-top: -100px;
+}
+
+.checked-list{
+    display:inline-block;
+}
+
+.offers{
+    margin-top: 100px;
+}
+
+.image-background{
+    margin-top: 70px;
+}
+
+.parallex{
+  
+    min-height: 300px;
+    background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.9)), url("../img/ivan-aleksic-PDRFeeDniCk-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.parallex-line{
+    padding-top: 100px;
+}
+
+
+.footer{
+    margin-top: 100px; 
+    margin-bottom: 50px;
+}
