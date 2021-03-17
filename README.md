@@ -1,4 +1,4 @@
 
 # Delightsome-Institute Website
-https://delightsomeinstitute.com/
+https://delightsomeinstitute.com
 
