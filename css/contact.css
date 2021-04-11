@@ -22,7 +22,7 @@ body{
 .hero{
     margin-top: -37px;
     min-height: 400px;
-    background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.9)), url("../img/ivan-aleksic-PDRFeeDniCk-unsplash.jpg");
+    background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.9)), url("../img/children.jfif");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -52,7 +52,7 @@ body{
 .parallex{
   
     min-height: 300px;
-    background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.9)), url("../img/ivan-aleksic-PDRFeeDniCk-unsplash.jpg");
+    background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.9)), url("../img/children.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
